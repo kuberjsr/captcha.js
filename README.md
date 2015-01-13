@@ -1,3 +1,5 @@
 Captcha.js
 ========
-This code can be used for making captcha.Feel free to use and modified it.
+This is complete php mail for contact form with captcha.
+It's freeware use commercial or non commercial.
+
