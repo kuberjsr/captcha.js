@@ -1,4 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="js/captcha.js"></script>
+  <script src="js/valid.js"></script> 
 
+<link rel="stylesheet" type="text/css" href="css/mail.css" media="screen">
+</head>
+<body>
+					   
+					   
 					    <form name="rightform" id="rightform" method="post" class="contactform1">
 					    	<div>
 						    	
@@ -30,3 +40,5 @@
 						   		<span><input name="Register" type="button" id="Register"  onclick="validate();" value="Submit"></span>
 						  </div>
 					    </form>
+</body>
+</html>
