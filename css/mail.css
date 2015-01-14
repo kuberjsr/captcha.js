@@ -1,4 +1,7 @@
 
-  .textbox1{width:94%; padding:2%; border:1px solid #4b4b4b; background:#414141; color:#FFFFFF; margin-top:10px;font-weight:bold}
-  .textbox2{width:14%; padding:2%; background:none; border:double; color:#F00; margin-top:10px;font-weight:bold; border-radius:15px; box-shadow:3px 3px 2px #000}
-  #Register{ color:#000; font-family:"amazing Spider Man"; cursor:pointer; letter-spacing:5px}
+
+  .textbox1{width:94%; padding:2%; border:1px solid #4b4b4b; background:#414141; color:#FFF; margin-top:10px;font-weight:bold}
+  
+  .textbox2{width:14%; padding:2%; background:none; border:solid; color:#000; margin-top:10px;font-weight:bold; letter-spacing:5px}
+  #Register{ color:#000; font-family:"Nyala"; cursor:pointer; letter-spacing:5px:; height:40px; width:100px; margin:20px auto;}
+
